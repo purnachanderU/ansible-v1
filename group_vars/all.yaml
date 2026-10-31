@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+mongodb_host: mongodb.viewsdial.com
+redis_host: redis.viewsdial.com
+mysql_host: mysql.viewsdial.com
+rabbitmq_host: rabbitmq.viewsdial.com
+catalogue_host: catalogue.viewsdial.com
+user_host: user.viewsdial.com
+cart_host: cart.viewsdial.com
+shipping_host: shipping.daws92s.store
+payment_host: payment.daws92s.store
